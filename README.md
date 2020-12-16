@@ -1,2 +1,2 @@
 # Data-Analysis-with-Python
-It consists of project based on Weather Dataset and finding usefull observations out of it.
+It consists of various python projects with some usefull insights and vizualization from different datasets.
